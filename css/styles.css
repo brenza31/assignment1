@@ -1,0 +1,25 @@
+html {
+    color: fuchsia;
+}
+
+/*
+body {
+    color: blue;
+    background-color: dimgray;
+*/
+
+}
+
+h1 {
+    color: lightpink;
+    background-color: beige;
+    font-family: 'arial';
+}
+
+p {
+    color: floralwhite;
+    background-color: burlywood;
+}
+a{
+    color: mediumvioletred; 
+}
