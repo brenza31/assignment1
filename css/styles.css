@@ -1,5 +1,5 @@
 html {
-    color: fuchsia;
+    color: orange;
 }
 
 /*
@@ -16,10 +16,27 @@ h1 {
     font-family: 'arial';
 }
 
+.cis-260 {
+    color: orange;
+    background-color: floralwhite;
+}
+
+.test {
+    background-color: floralwhite;
+}
+
+
+
 p {
     color: floralwhite;
     background-color: burlywood;
 }
-a{
-    color: mediumvioletred; 
+
+a {
+    color: mediumvioletred;
+}
+
+.link {
+    background-color: thistle;
+
 }
