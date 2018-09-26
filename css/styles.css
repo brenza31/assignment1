@@ -2,10 +2,10 @@ html {
     color: orange;
 }
 
-/*
+
 body {
     color: blue;
-    background-color: dimgray;
+    background-color: lightgoldenrodyellow;
 */
 
 }
@@ -30,6 +30,12 @@ h1 {
 p {
     color: floralwhite;
     background-color: burlywood;
+}
+#special-paragraph {
+    color: blue
+}
+#special-paragraph{
+    font-family: fantasy
 }
 
 a {
